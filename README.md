@@ -2,7 +2,7 @@
 
 ## Overall
 
-![Overall design](./web3-VBank%20Architecture.drawio.png)
+![Overall design](web3-VBank%20Architecture.drawio.png)
 
 ## Blockchain Tech Stack
 
@@ -73,4 +73,5 @@ BankToken (FLIP)
 ## Implementations
 
 <https://github.com/lucasdengcn/vbank-contracts>
+
 <https://github.com/lucasdengcn/vbank-frontend>
